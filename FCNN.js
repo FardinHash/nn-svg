@@ -1,4 +1,4 @@
-
+ 
 function FCNN() {
 
     let randomWeight = () => Math.random() * 2 - 1;
